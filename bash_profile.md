@@ -1,5 +1,3 @@
-# General Bash Configs
-
 ```bash
 echo "Logged in as $USER at $(hostname)"
 
