@@ -1,4 +1,3 @@
-```bash
 echo "Logged in as $USER at $(hostname)"
 
 ################################################################################
@@ -82,4 +81,3 @@ fi
 export LSCOLORS=ExGxFxdxCxDxDxaccxaeex
 # Force grep to always use the color option and show line numbers
 export GREP_OPTIONS='--color=always'
-```
