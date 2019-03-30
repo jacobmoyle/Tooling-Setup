@@ -7,7 +7,7 @@
 - [VsCode](https://code.visualstudio.com/)
 - [iTerm2](https://iterm2.com) ([Hyper](https://hyper.is) is too laggy for me)
   - [colbat2 Theme](https://github.com/wesbos/Cobalt2-iterm)
-  - [bash_profile](https://github.com/jacobmoyle/mySetup/blob/master/bash_profile.md) - general config
+  - [bash_profile](https://github.com/jacobmoyle/mySetup/blob/master/.bash_profile) - general config
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - Inspired by my own experience in addition to [Joseph Gentle's](https://josephg.com/blog/electron-is-flash-for-the-desktop/)
 - [Bear](https://bear.app) - Notes
 - [Todoist](https://todoist.com/?lang=en) - Easy task management
