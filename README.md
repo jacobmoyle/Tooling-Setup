@@ -1,5 +1,3 @@
-# mySetup
-
 ## Laptop
 
 - [DevTools Author](https://chrome.google.com/webstore/detail/devtools-author/egfhcfdfnajldliefpdoaojgahefjhhi)
