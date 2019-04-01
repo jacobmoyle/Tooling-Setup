@@ -10,6 +10,13 @@
 - [Spotify](https://www.spotify.com/us/) - Music
 - [Spectacle](https://www.spectacleapp.com) - Shortcuts for Window Resizing
 
+## Editor
+
+### Todo:
+- Test Link VsCode Synk
+- Verify extensions included
+- Theming
+
 ## Terminal Config
 
 - Theme: [colbat2 Theme](https://github.com/wesbos/Cobalt2-iterm)
@@ -46,3 +53,8 @@ fi
 Need to improve syncing but here it is for now: 
 
 [Profile]([bash_profile](https://github.com/jacobmoyle/mySetup/blob/master/.bash_profile) - general config)
+
+## Todo:
+
+- Improve category linking
+- Abstract App list (only want to update each article, not article and glossary)
