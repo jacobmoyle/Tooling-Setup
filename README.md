@@ -12,9 +12,8 @@
 
 ## Terminal Config
 
-Theme: [colbat2 Theme](https://github.com/wesbos/Cobalt2-iterm)
-Profile: [bash_profile](https://github.com/jacobmoyle/mySetup/blob/master/.bash_profile) - general config
-Font: See [Current Font](Current Font)
+- Theme: [colbat2 Theme](https://github.com/wesbos/Cobalt2-iterm)
+- Font: See [Current Font](https://github.com/jacobmoyle/mySetup/blob/master/README.md#current-font)
 
 ## Current Font
 
@@ -41,3 +40,9 @@ fi
 ```
 
 [Instructions](https://apple.stackexchange.com/questions/55875/git-auto-complete-for-branches-at-the-command-line)
+
+## Bash
+
+Need to improve syncing but here it is for now: 
+
+[Profile]([bash_profile](https://github.com/jacobmoyle/mySetup/blob/master/.bash_profile) - general config)
