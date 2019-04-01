@@ -1,7 +1,7 @@
 ## Apps
 
-- [DevTools Author](https://chrome.google.com/webstore/detail/devtools-author/egfhcfdfnajldliefpdoaojgahefjhhi)
-- [Alfred](https://www.alfredapp.com/)
+- [DevTools Author](https://chrome.google.com/webstore/detail/devtools-author/egfhcfdfnajldliefpdoaojgahefjhhi) - not currently using
+- [Alfred](https://www.alfredapp.com/) - not currently using
 - [VsCode](https://code.visualstudio.com/)
 - [iTerm2](https://iterm2.com) ([Hyper](https://hyper.is) is too laggy for me)
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - Inspired by my own experience in addition to [Joseph Gentle's](https://josephg.com/blog/electron-is-flash-for-the-desktop/)
