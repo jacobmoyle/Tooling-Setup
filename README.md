@@ -52,7 +52,7 @@ fi
 
 Need to improve syncing but here it is for now: 
 
-[Profile]([bash_profile](https://github.com/jacobmoyle/mySetup/blob/master/.bash_profile) - general config)
+[bash_profile](https://github.com/jacobmoyle/mySetup/blob/master/.bash_profile) - general config
 
 ## Todo:
 
