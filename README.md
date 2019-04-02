@@ -8,6 +8,7 @@
 - [Bear](https://bear.app) - Notes
 - [Todoist](https://todoist.com/?lang=en) - Easy task management
 - [Spotify](https://www.spotify.com/us/) - Music
+- [Toothfairy](https://itunes.apple.com/us/app/toothfairy/id1191449274?mt=12) - Bluetooth Manager
 - [Spectacle](https://www.spectacleapp.com) - Shortcuts for Window Resizing
 
 ## Editor
