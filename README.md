@@ -13,15 +13,26 @@
 
 ## Editor
 
-### Todo:
+[VsCode](https://code.visualstudio.com/)
+- Font: [Current Font](https://github.com/jacobmoyle/mySetup/blob/master/README.md#current-font)
+
+### Themes:
+
+I switch around, these are my current favorites:
+
+- [colbat2](https://github.com/wesbos/Cobalt2-iterm)
+- [Subliminal](https://github.com/gaearon/subliminal)
+
+
+#### Todo:
 - Test Link VsCode Synk
 - Verify extensions included
-- Theming
 
 ## Terminal Config
 
-- Theme: [colbat2 Theme](https://github.com/wesbos/Cobalt2-iterm)
-- Font: See [Current Font](https://github.com/jacobmoyle/mySetup/blob/master/README.md#current-font)
+- Themes: 
+  - [colbat2](https://github.com/wesbos/Cobalt2-iterm)
+- Font: [Current Font](https://github.com/jacobmoyle/mySetup/blob/master/README.md#current-font)
 
 ## Current Font
 
