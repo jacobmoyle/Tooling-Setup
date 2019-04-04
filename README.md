@@ -20,8 +20,13 @@
 
 I switch around, these are my current favorites:
 
-- [colbat2](https://github.com/wesbos/Cobalt2-iterm)
-- [Subliminal](https://github.com/gaearon/subliminal)
+#### [colbat2](https://github.com/wesbos/cobalt2-vscode)
+
+![VsCode Themed with Cobalt2](https://raw.githubusercontent.com/wesbos/cobalt2-vscode/cobalt2-updates/images/ss.png)
+
+#### [Subliminal](https://github.com/gaearon/subliminal)
+
+![VsCode Themed with Subliminal](https://github.com/gaearon/subliminal/blob/master/screenshot.png)
 
 
 #### Todo:
