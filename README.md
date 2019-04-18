@@ -1,5 +1,6 @@
 ## Apps
 
+- [30 Seconds of Knowledge](https://30secondsofknowledge.com/)
 - [DevTools Author](https://chrome.google.com/webstore/detail/devtools-author/egfhcfdfnajldliefpdoaojgahefjhhi) - not currently using
 - [Alfred](https://www.alfredapp.com/) - not currently using
 - [Code Editor](https://github.com/jacobmoyle/mySetup/blob/master/README.md#editor)
