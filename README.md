@@ -40,9 +40,11 @@ I switch around, these are my current favorites:
   - [colbat2](https://github.com/wesbos/Cobalt2-iterm)
 - Font: [Current Font](https://github.com/jacobmoyle/mySetup/blob/master/README.md#current-font)
 
-## Current Font
+## Fav. Fonts
 
-[FireCode](https://github.com/tonsky/FiraCode)
+[Dank Mono](https://dank.sh/) - Paid
+
+[FireCode](https://github.com/tonsky/FiraCode) - Free!
 
 ![FiraCode Font](https://camo.githubusercontent.com/3a8948f34284f378ead7af5846aa432035c687ad/687474703a2f2f732e746f6e736b792e6d652f696d67732f666972615f636f64655f6c6f676f2e737667)
 
