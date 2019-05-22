@@ -6,7 +6,8 @@
 - [Code Editor](https://github.com/jacobmoyle/mySetup/blob/master/README.md#editor)
 - [iTerm2](https://iterm2.com) ([Hyper](https://hyper.is) is too laggy for me)
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - Inspired by my own experience in addition to [Joseph Gentle's](https://josephg.com/blog/electron-is-flash-for-the-desktop/)
-- [Bear](https://bear.app) - Notes
+- [Bear](https://bear.app) - No Longer Using
+- [Notable](https://www.notion.so/?r=aba4cdaf75164e15962c7f6d4ed3f767) - Notes | It's Fucking Awesome
 - [Todoist](https://todoist.com/?lang=en) - Easy task management
 - [Spotify](https://www.spotify.com/us/) - Music
 - [Toothfairy](https://itunes.apple.com/us/app/toothfairy/id1191449274?mt=12) - Bluetooth Manager
