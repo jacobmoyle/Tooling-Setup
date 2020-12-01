@@ -6,12 +6,10 @@
 - [Code Editor](https://github.com/jacobmoyle/mySetup/blob/master/README.md#editor)
   - [VsCode](https://code.visualstudio.com/)
     - [colbat2](https://github.com/wesbos/cobalt2-vscode)
-    - Font: [Current Font](https://github.com/jacobmoyle/mySetup/blob/master/README.md#current-font)
 - [iTerm2](https://iterm2.com)
   - [ohmyzsh](https://ohmyz.sh/)
   - [httpie](https://httpie.io/)
   - [colbat2](https://github.com/wesbos/Cobalt2-iterm)
-  - Font: [Current Font](https://github.com/jacobmoyle/mySetup/blob/master/README.md#current-font)
 - [Notion](https://www.notion.so/?r=aba4cdaf75164e15962c7f6d4ed3f767) - Notes | It's Fucking Awesome
 - [Rectangle](https://rectangleapp.com/) - Shortcuts for application resizing
 
