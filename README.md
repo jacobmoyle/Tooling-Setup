@@ -10,7 +10,7 @@
   - [ohmyzsh](https://ohmyz.sh/)
   - [httpie](https://httpie.io/)
   - [colbat2](https://github.com/wesbos/Cobalt2-iterm)
-- [Notion](https://www.notion.so/?r=aba4cdaf75164e15962c7f6d4ed3f767) - Notes | It's Fucking Awesome
+- [Notion](https://www.notion.so/?r=aba4cdaf75164e15962c7f6d4ed3f767) - Notes, todo lists, etc. | It's Fucking Awesome
 - [Rectangle](https://rectangleapp.com/) - Shortcuts for application resizing
 - [Postman](https://www.postman.com/downloads/)
 
