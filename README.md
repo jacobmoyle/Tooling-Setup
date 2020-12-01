@@ -1,4 +1,4 @@
-## Apps
+## Stuff
 
 - [Chrome](https://www.google.com/chrome/?brand=JJTC&gclid=CjwKCAiA8Jf-BRB-EiwAWDtEGt-2B_eXj015Xdfn5FzbMUhpxG9a6GkeUQVP4LrkQSbYxeodoYKuCBoC18cQAvD_BwE&gclsrc=aw.ds)
   - [30 Seconds of Knowledge](https://30secondsofknowledge.com/)
@@ -12,6 +12,7 @@
   - [colbat2](https://github.com/wesbos/Cobalt2-iterm)
 - [Notion](https://www.notion.so/?r=aba4cdaf75164e15962c7f6d4ed3f767) - Notes | It's Fucking Awesome
 - [Rectangle](https://rectangleapp.com/) - Shortcuts for application resizing
+- [Postman](https://www.postman.com/downloads/)
 
 
 ## Fonts
